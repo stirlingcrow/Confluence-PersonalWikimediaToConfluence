@@ -1,0 +1,116 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.4/ http://www.mediawiki.org/xml/export-0.4.xsd" version="0.4" xml:lang="en">
+    <siteinfo>
+        <sitename>username</sitename>
+        <base>http://username.info/wiki/index.php?title=Main_Page</base>
+        <generator>MediaWiki 1.16.0</generator>
+        <case>first-letter</case>
+        <namespaces>
+            <namespace key="-2" case="first-letter">Media</namespace>
+            <namespace key="-1" case="first-letter">Special</namespace>
+            <namespace key="0" case="first-letter" />
+            <namespace key="1" case="first-letter">Talk</namespace>
+            <namespace key="2" case="first-letter">User</namespace>
+            <namespace key="3" case="first-letter">User talk</namespace>
+            <namespace key="4" case="first-letter">username</namespace>
+            <namespace key="5" case="first-letter">username talk</namespace>
+            <namespace key="6" case="first-letter">File</namespace>
+            <namespace key="7" case="first-letter">File talk</namespace>
+            <namespace key="8" case="first-letter">MediaWiki</namespace>
+            <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+            <namespace key="10" case="first-letter">Template</namespace>
+            <namespace key="11" case="first-letter">Template talk</namespace>
+            <namespace key="12" case="first-letter">Help</namespace>
+            <namespace key="13" case="first-letter">Help talk</namespace>
+            <namespace key="14" case="first-letter">Category</namespace>
+            <namespace key="15" case="first-letter">Category talk</namespace>
+            <namespace key="100" case="first-letter">Ultra</namespace>
+            <namespace key="102" case="first-letter">Java</namespace>
+            <namespace key="104" case="first-letter">Oracle</namespace>
+            <namespace key="106" case="first-letter">Tech</namespace>
+            <namespace key="108" case="first-letter">UNM</namespace>
+            <namespace key="110" case="first-letter">Unix</namespace>
+            <namespace key="112" case="first-letter">Groovy</namespace>
+            <namespace key="114" case="first-letter">HTML</namespace>
+            <namespace key="116" case="first-letter">Javascript</namespace>
+        </namespaces>
+    </siteinfo>
+    <page>
+        <title>2014-01-01</title>
+        <id>2004</id>
+        <revision>
+            <id>6658</id>
+            <timestamp>2014-01-03T16:05:53Z</timestamp>
+            <contributor>
+                <username>WikiSysop</username>
+                <id>1</id>
+            </contributor>
+            <text xml:space="preserve">[[2013-12-31]] | [[2014-01-02]] - Wednesday.  New Year's Day!
+
+*The kids slept in until 7:30.  A miracle!  (I think it also helped that we the curtain up!)
+*We ate lunch (leftovers from last night).
+*Put the kids to bed.  Jen read a book.
+*Jen and I discussed goals for 2014.
+*She took Lady for a walk.
+
+==Goals For 2014==
+*Jen wants to finish organizing the stuff for Grandpo's land.
+*Would be nice to have a &quot;down&quot; year.
+
+
+[[Category: 2014 Journal]]</text>
+        </revision>
+    </page>
+    <page>
+        <title>2014-01-02</title>
+        <id>2005</id>
+        <revision>
+            <id>6657</id>
+            <timestamp>2014-01-03T16:05:29Z</timestamp>
+            <contributor>
+                <username>WikiSysop</username>
+                <id>1</id>
+            </contributor>
+            <text xml:space="preserve">[[2014-01-01]] | [[2014-01-03]] - Thursday.
+
+==Work==
+FIN AID:
+*Worked with Alex and directed him on creating the generalized Fin Aid Train.
+*Investigated Fin Aid Spring upgrade that has dependencies on other module upgrades.
+
+==Personal==
+*Picked kids up and came home.
+*Was thinking about buying an electric violin off of Amazon for $130.
+
+[[Category: 2014 Journal]]</text>
+        </revision>
+    </page>
+    <page>
+        <title>2014-01-03</title>
+        <id>2006</id>
+        <revision>
+            <id>6669</id>
+            <timestamp>2014-01-07T16:07:42Z</timestamp>
+            <contributor>
+                <username>WikiSysop</username>
+                <id>1</id>
+            </contributor>
+            <text xml:space="preserve">[[2014-01-02]] | [[2014-01-04]] - Friday.
+
+==Work==
+FIN AID:
+*Researched Shopping Sheet/Advanced Queuing functionality all day.
+*Alex finished most of the generalized Fin Aid night train.
+
+
+==Personal==
+*Got home and we had TJ pizza for dinner..
+*We had the kids play with playdo after dinner.
+
+==Rental Property==
+*Got a call from a tenant.
+
+[[Category: 2014 Journal]]</text>
+        </revision>
+    </page>
+
+</mediawiki>
